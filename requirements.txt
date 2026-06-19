@@ -4,3 +4,5 @@ langsmith
 python-dotenv
 langchain-groq
 streamlit
+langchain-community
+tavily-python

@@ -6,3 +6,4 @@
 6) uv add ipykernel
 7).env
 8) add in requirements.txt langchain-groq
+9) streamlit run chatbot_ui.py
